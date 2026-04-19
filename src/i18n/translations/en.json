@@ -1,0 +1,18 @@
+{
+  "game": {
+    "title": "2048",
+    "score": "SCORE",
+    "best": "BEST",
+    "newGame": "New Game",
+    "won": "You Win!",
+    "gameOver": "Game Over!",
+    "keepPlaying": "Keep Playing",
+    "tryAgain": "Try Again",
+    "subtitle": "Join the numbers and get to the 2048 tile!",
+    "directionControls": "Directional controls",
+    "moveUp": "Move Up",
+    "moveDown": "Move Down",
+    "moveLeft": "Move Left",
+    "moveRight": "Move Right"
+  }
+}

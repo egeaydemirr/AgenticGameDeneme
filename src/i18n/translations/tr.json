@@ -1,0 +1,18 @@
+{
+  "game": {
+    "title": "2048",
+    "score": "SKOR",
+    "best": "EN İYİ",
+    "newGame": "Yeni Oyun",
+    "won": "Kazandın!",
+    "gameOver": "Oyun Bitti!",
+    "keepPlaying": "Devam Et",
+    "tryAgain": "Tekrar Dene",
+    "subtitle": "Sayıları birleştirerek 2048'e ulaş!",
+    "directionControls": "Yön kontrolleri",
+    "moveUp": "Yukarı",
+    "moveDown": "Aşağı",
+    "moveLeft": "Sola",
+    "moveRight": "Sağa"
+  }
+}

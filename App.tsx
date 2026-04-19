@@ -1,18 +1,8 @@
-import { StatusBar, StyleSheet, View } from 'react-native';
+import React from 'react';
+import { GameScreen } from './src/features/game2048';
 
 function App() {
-  return (
-    <View style={styles.container}>
-      <StatusBar barStyle="dark-content" backgroundColor="#ffffff" />
-    </View>
-  );
+  return <GameScreen />;
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#ffffff',
-  },
-});
 
 export default App;
